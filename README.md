@@ -1,4 +1,4 @@
-LOcal Gpu Optimization TSP solver, version 0.62
+###LOGO : LOcal Gpu Optimization TSP solver, version 0.62
 
 If you find this code useful, please cite:
 
@@ -23,8 +23,10 @@ If you find this code useful, please cite:
 ```
 
 
-More info:
+#More info:
 
-http://olab.is.s.u-tokyo.ac.jp/~kamil.rocki/projects.html
-http://olab.is.s.u-tokyo.ac.jp/~kamil.rocki/rocki_hpcs2012.pdf
-http://olab.is.s.u-tokyo.ac.jp/~kamil.rocki/rocki_pco13.pdf
+[http://olab.is.s.u-tokyo.ac.jp/~kamil.rocki/projects.html][Project website]
+[http://olab.is.s.u-tokyo.ac.jp/~kamil.rocki/rocki_hpcs2012.pdf][HPCS Paper]
+[http://olab.is.s.u-tokyo.ac.jp/~kamil.rocki/rocki_pco13.pdf][IPDPS Paper]
+
+```
