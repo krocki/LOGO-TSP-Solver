@@ -25,8 +25,7 @@ If you find this code useful, please cite:
 
 #More info:
 
-[http://olab.is.s.u-tokyo.ac.jp/~kamil.rocki/projects.html][Project website]
+[Project website](http://olab.is.s.u-tokyo.ac.jp/~kamil.rocki/projects.html)
 [http://olab.is.s.u-tokyo.ac.jp/~kamil.rocki/rocki_hpcs2012.pdf][HPCS Paper]
 [http://olab.is.s.u-tokyo.ac.jp/~kamil.rocki/rocki_pco13.pdf][IPDPS Paper]
 
-```
