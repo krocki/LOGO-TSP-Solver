@@ -1,4 +1,6 @@
-###LOGO : LOcal Gpu Optimization TSP solver, version 0.62
+### LOGO : LOcal Gpu Optimization TSP solver, version 0.62
+
+<img src="http://olab.is.s.u-tokyo.ac.jp/~kamil.rocki/research/logo_tsp.png" height="100"/>
 
 If you find this code useful, please cite:
 
